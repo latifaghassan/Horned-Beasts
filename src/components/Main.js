@@ -25,3 +25,4 @@ class Main extends React.Component {
 export default Main;
 
 // when you want to add img {imageURL}
+/***************************/
