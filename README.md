@@ -1,6 +1,6 @@
 # React01
 
-Number and name of feature: lab02 
+Number and name of feature: React state & props
 
 Estimate of time needed to complete: 8 
 
