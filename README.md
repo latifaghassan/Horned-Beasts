@@ -1,11 +1,11 @@
 # React01
 
-Number and name of feature: ________________________________
+Number and name of feature: lab02 
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 8 
 
-Start time: _____
+Start time: 3
 
-Finish time: _____
+Finish time: 9
 
-Actual time needed to complete: _____
+Actual time needed to complete: 8
