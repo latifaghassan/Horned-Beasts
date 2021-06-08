@@ -11,7 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 } */
-
+/* 
 img {
   margin-left: 41%;
   border: solid black;
@@ -29,4 +29,23 @@ h2 {
 p {
   text-align: center;
   font-size: 20px;
+} */
+
+header {
+  background-color: rgba(0, 0, 0, 0.377);
+  padding-top: 5%;
+}
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.377);
+  padding-top: 5%;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  text-align: center;
 }
