@@ -32,11 +32,11 @@ p {
 } */
 
 header {
-  background-color: rgba(0, 0, 0, 0.377);
+  background-color: rgba(226, 175, 175, 0.377);
   padding-top: 5%;
 }
 h1 {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 
@@ -48,4 +48,13 @@ footer {
 p {
   color: rgb(0, 0, 0);
   text-align: center;
+}
+
+.form {
+  text-align: center;
+}
+
+.button {
+  text-align: center;
+  padding-top: 10%;
 }

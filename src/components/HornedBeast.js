@@ -51,21 +51,3 @@ class HornedBeast extends React.Component {
 }
 
 export default HornedBeast;
-/*********************************/
-
-/*
-
-/*
-<div>
-        <title>{this.props.title}</title>
-        <h2>{this.props.description}</h2>
-
-        <img
-          onClick={this.votingFunc}
-          src={this.props.url}
-          alt={this.props.title}
-        />
-
-        <p>{this.state.votes}</p>
-      </div>
-*/
